@@ -1,6 +1,7 @@
 const { description } = require('../../package')
 
 module.exports = {
+  base: '/hand-in-hand-edu/',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
@@ -27,7 +28,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
+    repo: 'hand-in-hand-edu/hand-in-hand-edu',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
