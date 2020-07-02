@@ -2,6 +2,8 @@
 author: Sunny Huang
 date: 2020-06-30
 sidebar: auto
+categories:
+  - bbb
 ---
 
 # Config
