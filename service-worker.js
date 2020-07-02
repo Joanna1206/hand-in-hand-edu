@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "95a7dc81fb269d4d3189744c4a9c6330"
+    "revision": "bc8114c522ece25f35744177403c7a9f"
   },
   {
     "url": "assets/css/0.styles.9e20c02a.css",
@@ -106,32 +106,32 @@ self.__precacheManifest = [
     "revision": "a19195b493ae0b6d577ca61bcfeb50e4"
   },
   {
-    "url": "assets/js/app.bf152515.js",
-    "revision": "3f98669051d2a58a4c53e719f249e92c"
+    "url": "assets/js/app.ee443c7e.js",
+    "revision": "39bab9a373a5d574a631b917b42cbdef"
   },
   {
     "url": "categories/aaa/index.html",
-    "revision": "c1317f84657207e2fcf912bdbb379ebe"
+    "revision": "fe0ecd9a4e37b3ad5ba0d555c6b20ba6"
   },
   {
     "url": "categories/bbb/index.html",
-    "revision": "494050197f3552ef113ac1d6aa5fb98b"
+    "revision": "7109df6626a1fb567ff3b443f93712e8"
   },
   {
     "url": "categories/index.html",
-    "revision": "417cd8d7a19b0e7fd0b0a1b575b1f383"
+    "revision": "aee83ce52365d183ebc0b15a187cee3c"
   },
   {
     "url": "config/index.html",
-    "revision": "14f018c85e7a95b16181f8744383a512"
+    "revision": "ccdff8dc3f9d08b416b915ecda38b552"
   },
   {
     "url": "guide/index.html",
-    "revision": "ffda2cee1e1f0297a7e2045f793ae2b3"
+    "revision": "2f6928f78ce2f53e7cae26da56925a82"
   },
   {
     "url": "guide/using-vue.html",
-    "revision": "85d20539582e2bb313b0b3d9f3397bf3"
+    "revision": "8089973bd1c34ab8d91071bc0f3f3924"
   },
   {
     "url": "img/tinaam_logo.svg",
@@ -139,15 +139,15 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "a125bf9fc3c26fb389af5092808c20c3"
+    "revision": "dc15485867c73eae5bf432d2a433598d"
   },
   {
     "url": "tag/index.html",
-    "revision": "eed0d1dc15a2bfe1ecdc1ec3ee47c2ef"
+    "revision": "ee3a1c6e03f1fcbeee33e1ffba6dbe26"
   },
   {
     "url": "timeline/index.html",
-    "revision": "29b6885e7c4875aaa4ab47a8ca2e7c6b"
+    "revision": "d2fe2994d7a91326f359d4214b5276d1"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
