@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "cd653df3accba8eaf6eb101fd759babe"
+    "revision": "a11380e69c463baa693a347872321ea9"
   },
   {
     "url": "assets/css/0.styles.9e20c02a.css",
@@ -50,8 +50,8 @@ self.__precacheManifest = [
     "revision": "35574b3a9248706b3a14883cd0fb7ade"
   },
   {
-    "url": "assets/js/10.bd07315c.js",
-    "revision": "ffaa7a82ac8ebcbf0f5830265d671629"
+    "url": "assets/js/10.8b799305.js",
+    "revision": "ef10fafd3a8b9682e00dea9cd2af9c58"
   },
   {
     "url": "assets/js/11.f998e656.js",
@@ -62,8 +62,8 @@ self.__precacheManifest = [
     "revision": "a277f5889733dbee3a99767ab9059396"
   },
   {
-    "url": "assets/js/13.f61588c1.js",
-    "revision": "8421a75b0ae7b9de6e8cafa4501312d6"
+    "url": "assets/js/13.edad25a4.js",
+    "revision": "e7822df8b69cd80359ed83d87e1491df"
   },
   {
     "url": "assets/js/14.57012d7c.js",
@@ -86,8 +86,12 @@ self.__precacheManifest = [
     "revision": "e528a7ce9a7b2f05248dbc20821b77df"
   },
   {
-    "url": "assets/js/19.0e9199b5.js",
-    "revision": "b655e318bb17791e3ba78e0da92f5ec1"
+    "url": "assets/js/19.6cef0b72.js",
+    "revision": "52d9e9b62b8214e28979b26ec87c08e6"
+  },
+  {
+    "url": "assets/js/20.deecb354.js",
+    "revision": "a70ebfcfdcfdb42d9ca9488b3af49c01"
   },
   {
     "url": "assets/js/3.a1094f0c.js",
@@ -118,36 +122,44 @@ self.__precacheManifest = [
     "revision": "583101274bd7fb14f5513765f06479c2"
   },
   {
-    "url": "assets/js/app.8062de17.js",
-    "revision": "bf9c440c1511173522692bdc07daf154"
+    "url": "assets/js/app.8aee1f40.js",
+    "revision": "72f024340d1c9687f3e19880be8a93e1"
   },
   {
     "url": "categories/aaa/index.html",
-    "revision": "e3cdabdd8feddbb0f314fb29bd11595d"
+    "revision": "b02c335337bc82263afbe199e6de0402"
   },
   {
     "url": "categories/bbb/index.html",
-    "revision": "d623adb24b3c02d8244942dd60d8112f"
+    "revision": "7290e3356e68f6181127ad7b3b970ce5"
   },
   {
     "url": "categories/index.html",
-    "revision": "51ddfbf05011c030d048fd09141af501"
+    "revision": "2563459740ffc869c6ea1b25bd438117"
+  },
+  {
+    "url": "categories/文书/index.html",
+    "revision": "a37832c42de8a9b3d792a892a9fefbcd"
   },
   {
     "url": "config/index.html",
-    "revision": "79c74c479137041b428293568b574ba8"
+    "revision": "0bc71bfa055493fad53d70b7027b1fc3"
   },
   {
     "url": "guide/index.html",
-    "revision": "a5381cb825a81aafe32a2939b8fb5cd8"
+    "revision": "e074092d972eb31f3b51831b9801dffa"
   },
   {
     "url": "guide/using-vue.html",
-    "revision": "e4c5ee0a79fc22b30fbec8d864786b84"
+    "revision": "4e46a495809a2f7bbbeaa621f3a6c18b"
   },
   {
     "url": "guide/xxx.html",
-    "revision": "bf972dd356f4a9e881d8553c29024ae9"
+    "revision": "7bf9fb9a0050327e582cee0fa37e0174"
+  },
+  {
+    "url": "guide/yyy.html",
+    "revision": "fb5bc44862e70f03d83d76378348d35a"
   },
   {
     "url": "img/tinaam_logo.svg",
@@ -159,15 +171,15 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "4ec7039c9bfbbcab8cd33307bfeadb3d"
+    "revision": "1fa0f71dc784843e1dd2c225ef2ae518"
   },
   {
     "url": "tag/index.html",
-    "revision": "6e5b15f53556406eabcdc53649a7c1e4"
+    "revision": "cdf08a847b5d1bb719ca97b2ae426e60"
   },
   {
     "url": "timeline/index.html",
-    "revision": "ba0f3ab69565519719f66bada994108c"
+    "revision": "b063ffda36d9ab888237aa8e2c7d9043"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
