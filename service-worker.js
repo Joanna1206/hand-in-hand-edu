@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "a11380e69c463baa693a347872321ea9"
+    "revision": "23e17a10fa594e9aa73bc4aa77919155"
   },
   {
     "url": "assets/css/0.styles.9e20c02a.css",
@@ -46,24 +46,24 @@ self.__precacheManifest = [
     "revision": "6d1cab97d729de19496d3dc37b182bbf"
   },
   {
-    "url": "assets/js/1.edf6f876.js",
-    "revision": "35574b3a9248706b3a14883cd0fb7ade"
+    "url": "assets/js/1.4e61f59b.js",
+    "revision": "c781ff48373244c39c98ce434701a4fc"
   },
   {
-    "url": "assets/js/10.8b799305.js",
-    "revision": "ef10fafd3a8b9682e00dea9cd2af9c58"
+    "url": "assets/js/10.976480a0.js",
+    "revision": "9cc0e2748c5ac26aeafa5b7fb9ee5ed3"
   },
   {
-    "url": "assets/js/11.f998e656.js",
-    "revision": "67b2d05a2f46c9b90b94d29d935e2d7c"
+    "url": "assets/js/11.9f217581.js",
+    "revision": "443b61dd369bb0738219cdfe3baf65d1"
   },
   {
     "url": "assets/js/12.aeabe633.js",
     "revision": "a277f5889733dbee3a99767ab9059396"
   },
   {
-    "url": "assets/js/13.edad25a4.js",
-    "revision": "e7822df8b69cd80359ed83d87e1491df"
+    "url": "assets/js/13.47dce7fb.js",
+    "revision": "9ef42b45b8ebd1d56e3cb206dca80b16"
   },
   {
     "url": "assets/js/14.57012d7c.js",
@@ -74,92 +74,108 @@ self.__precacheManifest = [
     "revision": "b4b53d93a3f031adcf48e46b06c3f2b4"
   },
   {
-    "url": "assets/js/16.a95f8b90.js",
-    "revision": "8b043c5f5be5ea728b390d4aba84480d"
+    "url": "assets/js/16.f97e19b8.js",
+    "revision": "5005f43b7808088d868045c18679b5e4"
   },
   {
-    "url": "assets/js/17.d5bfca1c.js",
-    "revision": "212b5067a09f9a17794fb6a41c2b7812"
+    "url": "assets/js/17.4105394b.js",
+    "revision": "2ca71e822b0078bbf76498febbd71871"
   },
   {
-    "url": "assets/js/18.324ab366.js",
-    "revision": "e528a7ce9a7b2f05248dbc20821b77df"
+    "url": "assets/js/18.71925aca.js",
+    "revision": "203ece29824222f5389ecffa7c4ebeaa"
   },
   {
-    "url": "assets/js/19.6cef0b72.js",
-    "revision": "52d9e9b62b8214e28979b26ec87c08e6"
+    "url": "assets/js/19.17d306bb.js",
+    "revision": "9302c54259cea821af70ea770465515d"
   },
   {
-    "url": "assets/js/20.deecb354.js",
-    "revision": "a70ebfcfdcfdb42d9ca9488b3af49c01"
+    "url": "assets/js/20.3cddcba0.js",
+    "revision": "8943ecad2faa54408f2dc4c65788aaad"
   },
   {
-    "url": "assets/js/3.a1094f0c.js",
-    "revision": "717e81b78baf6e7dab856a14c9ee7137"
+    "url": "assets/js/21.be2293f2.js",
+    "revision": "8e65af6a55b731c492f6a0f8e19a95fd"
   },
   {
-    "url": "assets/js/4.53c483ef.js",
-    "revision": "7bfa6595a480ed7bc8f9649a086d486f"
+    "url": "assets/js/3.81c48d6d.js",
+    "revision": "64ed31e7ad6d35f0431c03ebccbdbc8d"
   },
   {
-    "url": "assets/js/5.d0710370.js",
-    "revision": "b28c0672252754794b6d78cb66c08e3f"
+    "url": "assets/js/4.09dfe353.js",
+    "revision": "21a1576e97d0682e2d253d04672f2755"
   },
   {
-    "url": "assets/js/6.f8d9213b.js",
-    "revision": "f9624b8e9d02edbf3af8f28bd4a6d604"
+    "url": "assets/js/5.eebd0c3e.js",
+    "revision": "f362ea9cef10117985bcdf8f333598c0"
+  },
+  {
+    "url": "assets/js/6.e2c3b535.js",
+    "revision": "e57e52d7417eff84d77951f3b631b8ea"
   },
   {
     "url": "assets/js/7.7e07fd8d.js",
     "revision": "b5f29b872c204364327517229cc3a461"
   },
   {
-    "url": "assets/js/8.4a755bb4.js",
-    "revision": "7d74724b433164afb7a060229799e0f5"
+    "url": "assets/js/8.18a3e5e7.js",
+    "revision": "46c1525c9eb47153f21c612aeffb872f"
   },
   {
-    "url": "assets/js/9.3bd9fe0f.js",
-    "revision": "583101274bd7fb14f5513765f06479c2"
+    "url": "assets/js/9.db5c1462.js",
+    "revision": "8ea094879f2c2faa22ff986b3630697a"
   },
   {
-    "url": "assets/js/app.8aee1f40.js",
-    "revision": "72f024340d1c9687f3e19880be8a93e1"
+    "url": "assets/js/app.ac63eb98.js",
+    "revision": "b116e2ba82f5f8512d3f02d0c73f35ac"
   },
   {
     "url": "categories/aaa/index.html",
-    "revision": "b02c335337bc82263afbe199e6de0402"
+    "revision": "28a2e9e09d916031bedfc7292d8fae5d"
   },
   {
     "url": "categories/bbb/index.html",
-    "revision": "7290e3356e68f6181127ad7b3b970ce5"
+    "revision": "f7b95b6ae3f9b57801b4363ad81a807a"
   },
   {
     "url": "categories/index.html",
-    "revision": "2563459740ffc869c6ea1b25bd438117"
+    "revision": "aa530250d9a6cb9b0d1929ae01e3fac9"
   },
   {
     "url": "categories/文书/index.html",
-    "revision": "a37832c42de8a9b3d792a892a9fefbcd"
+    "revision": "3650e40b31bc76f382a46746234af744"
+  },
+  {
+    "url": "categories/选项目/index.html",
+    "revision": "5a0222905b0e3e3dd19e0d56f15981f0"
+  },
+  {
+    "url": "categories/选项目1/index.html",
+    "revision": "e23a93973252247f9f70917c1d8246f4"
   },
   {
     "url": "config/index.html",
-    "revision": "0bc71bfa055493fad53d70b7027b1fc3"
+    "revision": "e0a1360b605d982b1dc9a974d53f8a06"
+  },
+  {
+    "url": "guide/10min分享-帝国理工学院（IC）的8个CS硕士项目到底选哪个呢？.html",
+    "revision": "75aa9967e76905a35d714ad807cfdbfc"
   },
   {
     "url": "guide/index.html",
-    "revision": "e074092d972eb31f3b51831b9801dffa"
+    "revision": "d87c113b9594ab1069e2be6100e45ece"
   },
   {
     "url": "guide/using-vue.html",
-    "revision": "4e46a495809a2f7bbbeaa621f3a6c18b"
+    "revision": "327582d2a670de41059b46f084063738"
   },
   {
     "url": "guide/xxx.html",
-    "revision": "7bf9fb9a0050327e582cee0fa37e0174"
+    "revision": "64d13449e36af02a9e53f018b9f3d876"
   },
   {
     "url": "guide/yyy.html",
-    "revision": "fb5bc44862e70f03d83d76378348d35a"
+    "revision": "8e457a8466aa63b31a9ea33f92112db7"
   },
   {
     "url": "img/tinaam_logo.svg",
@@ -171,15 +187,19 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "1fa0f71dc784843e1dd2c225ef2ae518"
+    "revision": "988204cb804fe2f39bbba5e3d703f59a"
+  },
+  {
+    "url": "tag/10min分享/index.html",
+    "revision": "4a73b8bbbd40acaa1f562d3d06f3a150"
   },
   {
     "url": "tag/index.html",
-    "revision": "cdf08a847b5d1bb719ca97b2ae426e60"
+    "revision": "ea0d8478e2ff7c9cdb3f33dbf6bc14ee"
   },
   {
     "url": "timeline/index.html",
-    "revision": "b063ffda36d9ab888237aa8e2c7d9043"
+    "revision": "fc67fd3e10bfc85a23d5ecc9b4d6ae66"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
