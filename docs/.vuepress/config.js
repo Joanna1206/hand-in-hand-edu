@@ -60,19 +60,22 @@ module.exports = {
     ],
     // we'd better 
     sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
-      'config': {
+      // '/guide/': [
+      //   {
+      //     title: 'Guide',
+      //     collapsable: false,
+      //     children: [
+      //       '',
+      //       'using-vue',
+      //     ]
+      //   }
+      // ],
+      'guide': {
         sidebar: 'auto'
       }
+      // 'config': {
+      //   sidebar: 'auto'
+      // }
     },
     sidebarDepth: 2
   },
