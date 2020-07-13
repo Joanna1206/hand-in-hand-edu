@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "f512a9b85892ed646a1c36710b5ec870"
+    "revision": "8bfbb9ba3058307f548bdffc0afdcc18"
   },
   {
     "url": "assets/css/0.styles.9e20c02a.css",
@@ -42,108 +42,124 @@ self.__precacheManifest = [
     "revision": "7b267d7ce30257a197aeeb29f365065b"
   },
   {
+    "url": "assets/img/PsychologyProgramsUK.625874b8.jpg",
+    "revision": "625874b87aa27121b9d0bde8478eef1f"
+  },
+  {
     "url": "assets/js/1.e4e5c049.js",
     "revision": "a2e90abde8ae08d1ae77d7580626e53e"
   },
   {
-    "url": "assets/js/10.0486bc26.js",
-    "revision": "4566377e4cd7557b877e30df18511d73"
+    "url": "assets/js/10.bd07315c.js",
+    "revision": "ffaa7a82ac8ebcbf0f5830265d671629"
   },
   {
-    "url": "assets/js/11.b5510f24.js",
-    "revision": "b4f4cfa3bd55b6599a95315ce77425d5"
+    "url": "assets/js/11.570b1fd8.js",
+    "revision": "9c800f7a7d98cb1a29527fe72886fafe"
   },
   {
-    "url": "assets/js/12.7c276707.js",
-    "revision": "b143793652ed232cc8f571ca340ba224"
+    "url": "assets/js/12.3ebee017.js",
+    "revision": "462cba69c420c7e7ae4f27eca67d39b5"
   },
   {
-    "url": "assets/js/13.46ddf675.js",
-    "revision": "5f450fb000d04d2899dc067f3a15e6ce"
+    "url": "assets/js/13.a71019b6.js",
+    "revision": "29a5582d2cafad6e974b2f0fe0c4d3e8"
   },
   {
-    "url": "assets/js/14.dfdd7d03.js",
-    "revision": "797530c2c33d4d26f306269c8731d62d"
+    "url": "assets/js/14.6bac623e.js",
+    "revision": "00b93d24e1bc1844ff8b5c306f271d40"
   },
   {
-    "url": "assets/js/15.3075c4ea.js",
-    "revision": "57568a62d5377c021e6566f995ca3637"
+    "url": "assets/js/15.82cf371d.js",
+    "revision": "4079e676b03f97842e3247c8f049deb0"
   },
   {
-    "url": "assets/js/16.3eed4b1e.js",
-    "revision": "a0c91e664b1aa222aad78ae96e95b568"
+    "url": "assets/js/16.58da305e.js",
+    "revision": "fa10f1ef36a3776287c9c4dcd8db29d1"
   },
   {
-    "url": "assets/js/17.d5bfca1c.js",
-    "revision": "212b5067a09f9a17794fb6a41c2b7812"
+    "url": "assets/js/17.4105394b.js",
+    "revision": "2ca71e822b0078bbf76498febbd71871"
   },
   {
-    "url": "assets/js/18.21da99d3.js",
-    "revision": "942813c6ff3b44f86752bd9a1b171018"
+    "url": "assets/js/18.6d46f75b.js",
+    "revision": "0103038f07537f7a574e8e476806d890"
   },
   {
-    "url": "assets/js/3.0db91cdd.js",
-    "revision": "a9794be0177098de43f36896f59cc173"
+    "url": "assets/js/19.0e9199b5.js",
+    "revision": "b655e318bb17791e3ba78e0da92f5ec1"
   },
   {
-    "url": "assets/js/4.61f3ac5c.js",
-    "revision": "760f5a3b5129b7dc870c2ba3b2215458"
+    "url": "assets/js/3.81c48d6d.js",
+    "revision": "64ed31e7ad6d35f0431c03ebccbdbc8d"
   },
   {
-    "url": "assets/js/5.f1199cc9.js",
-    "revision": "52800aad6ff555706898c71127ff4d91"
+    "url": "assets/js/4.09dfe353.js",
+    "revision": "21a1576e97d0682e2d253d04672f2755"
   },
   {
-    "url": "assets/js/6.69484f8d.js",
-    "revision": "2c7a5a215f9a4cd44855dbc95296df34"
+    "url": "assets/js/5.eebd0c3e.js",
+    "revision": "f362ea9cef10117985bcdf8f333598c0"
   },
   {
-    "url": "assets/js/7.ed270d95.js",
-    "revision": "de785a155715dc613fb0b10f8e76e2d6"
+    "url": "assets/js/6.e2c3b535.js",
+    "revision": "e57e52d7417eff84d77951f3b631b8ea"
   },
   {
-    "url": "assets/js/8.2a26c2e1.js",
-    "revision": "c4ab93b4cfcad50c4d396f2681e74d7b"
+    "url": "assets/js/7.7e07fd8d.js",
+    "revision": "b5f29b872c204364327517229cc3a461"
   },
   {
-    "url": "assets/js/9.1b55dc65.js",
-    "revision": "96e5c49d4804d4f2d3803a5ac3e5d6b8"
+    "url": "assets/js/8.18a3e5e7.js",
+    "revision": "46c1525c9eb47153f21c612aeffb872f"
   },
   {
-    "url": "assets/js/app.ded7fd3b.js",
-    "revision": "c5e4699970481a4f4d09ba0d9d2e5c18"
+    "url": "assets/js/9.3bd9fe0f.js",
+    "revision": "583101274bd7fb14f5513765f06479c2"
+  },
+  {
+    "url": "assets/js/app.c177f54d.js",
+    "revision": "ce31778ff48338073d9036b406eb2adf"
   },
   {
     "url": "categories/aaa/index.html",
-    "revision": "1cf6e40c74913cbb04d0ab0055194177"
+    "revision": "f998417f628a9aef9d86587670becae9"
   },
   {
     "url": "categories/index.html",
-    "revision": "ff7c0989cec96a82721fd78d749505c4"
+    "revision": "bffb64826d241aadedd8b701b6ffa344"
   },
   {
     "url": "categories/选项目/index.html",
-    "revision": "3cf7527307f9bce31678f9381c22274a"
+    "revision": "57cb10a78e1a33d84f0531f75d7d1287"
   },
   {
     "url": "categories/选项目1/index.html",
-    "revision": "345285e6fc1b9c4a5d5930ff0e51d1bc"
+    "revision": "baabf37c4c8c9593cf6f1af421ddb922"
   },
   {
     "url": "guide/10min分享-帝国理工学院（IC）的8个CS硕士项目到底选哪个呢？.html",
-    "revision": "abc59ab4b69ad721d27a490fd418fb44"
+    "revision": "2a68627d45b5bc089a4604f249b989ef"
+  },
+  {
+    "url": "guide/10min分享-跨专业申请英国心理学硕士可以吗.html",
+    "revision": "611fd168fb9fd0d9ace5ce2d6564374e"
   },
   {
     "url": "guide/10min分享-香港博士申请奖学金.html",
-    "revision": "f16af7857a671093c71c43f10e7dbd14"
+    "revision": "1d2b6ad3b47405c1d521b875a7a6259d"
   },
   {
     "url": "guide/index.html",
-    "revision": "8a6c2143371b6883252be5491536608d"
+    "revision": "4de2633fe242972e90144995e93c27dd"
   },
   {
     "url": "img/HKScholarship.png",
     "revision": "3ad9c088654ca119a25428462473695a"
+  },
+  {
+    "url": "img/PsychologyProgramsUK.jpg",
+    "revision": "625874b87aa27121b9d0bde8478eef1f"
   },
   {
     "url": "img/tinaam_logo.svg",
@@ -151,19 +167,19 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "99ea1b365d205b3122e48fff9013c564"
+    "revision": "6c51003ef1497272351e2a32f30a7edc"
   },
   {
     "url": "tag/10min分享/index.html",
-    "revision": "b83673b6d2085a5bd6affd66a1906bdd"
+    "revision": "5bb64a9eed3fd137656717d126e87395"
   },
   {
     "url": "tag/index.html",
-    "revision": "0110751b6be11df75bad71c27e03f0f3"
+    "revision": "cf6eab7bbd3a183a73c91444cf7e425a"
   },
   {
     "url": "timeline/index.html",
-    "revision": "85ddee7ff589cce87778a4bf146a3d95"
+    "revision": "49b0541ba5262432da87db31acc764d9"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
