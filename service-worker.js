@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "e33cff23b70b27f03b5c81edc860bd86"
+    "revision": "f9d96bdca4cfc6f5a77c21b317dd343b"
   },
   {
     "url": "assets/css/0.styles.9e20c02a.css",
@@ -46,28 +46,28 @@ self.__precacheManifest = [
     "revision": "625874b87aa27121b9d0bde8478eef1f"
   },
   {
-    "url": "assets/js/1.121d5756.js",
-    "revision": "4eb6e6cbe448350b8e33224d0a65ecd2"
+    "url": "assets/js/1.2ef5c327.js",
+    "revision": "29fdeb1dce465998b83fd4b40e83672a"
   },
   {
-    "url": "assets/js/10.bd07315c.js",
-    "revision": "ffaa7a82ac8ebcbf0f5830265d671629"
+    "url": "assets/js/10.8b799305.js",
+    "revision": "ef10fafd3a8b9682e00dea9cd2af9c58"
   },
   {
-    "url": "assets/js/11.570b1fd8.js",
-    "revision": "9c800f7a7d98cb1a29527fe72886fafe"
+    "url": "assets/js/11.fa8eb8a5.js",
+    "revision": "a001fc2b2f231c57960015822dcec2d8"
   },
   {
-    "url": "assets/js/12.63e4fa96.js",
-    "revision": "1c310f244a23d466af16153fb326fe04"
+    "url": "assets/js/12.3ebee017.js",
+    "revision": "462cba69c420c7e7ae4f27eca67d39b5"
   },
   {
     "url": "assets/js/13.a71019b6.js",
     "revision": "29a5582d2cafad6e974b2f0fe0c4d3e8"
   },
   {
-    "url": "assets/js/14.6bac623e.js",
-    "revision": "00b93d24e1bc1844ff8b5c306f271d40"
+    "url": "assets/js/14.2bcda629.js",
+    "revision": "8b31e31a77f5ff4236294f41a328a7c5"
   },
   {
     "url": "assets/js/15.82cf371d.js",
@@ -82,12 +82,16 @@ self.__precacheManifest = [
     "revision": "2ca71e822b0078bbf76498febbd71871"
   },
   {
-    "url": "assets/js/18.b2f8faa7.js",
-    "revision": "99dc92131d983176691ba2e544d08775"
+    "url": "assets/js/18.777ec0e0.js",
+    "revision": "811fbd223743656adb09d7880f065b5d"
   },
   {
-    "url": "assets/js/19.0e9199b5.js",
-    "revision": "b655e318bb17791e3ba78e0da92f5ec1"
+    "url": "assets/js/19.d9915035.js",
+    "revision": "b6da5f949e7e1d8dce811db788a3034f"
+  },
+  {
+    "url": "assets/js/20.deecb354.js",
+    "revision": "a70ebfcfdcfdb42d9ca9488b3af49c01"
   },
   {
     "url": "assets/js/3.dce1bcfa.js",
@@ -114,44 +118,48 @@ self.__precacheManifest = [
     "revision": "dff683a84fe904605c51d9e93c6a9154"
   },
   {
-    "url": "assets/js/9.116676a7.js",
-    "revision": "aaf0c625a50c31ebe99629288deb1c19"
+    "url": "assets/js/9.8f3b1126.js",
+    "revision": "faba7ee4b631a31e5365494baec75d26"
   },
   {
-    "url": "assets/js/app.79bb4072.js",
-    "revision": "866b413ced5dc64dc92d25e5d6fcfdef"
+    "url": "assets/js/app.088ac5cc.js",
+    "revision": "60517d8f53f54273b69ea8294ecc9d9b"
   },
   {
     "url": "categories/aaa/index.html",
-    "revision": "9dd70cf5f36806b3de48eea480f2608e"
+    "revision": "33f979483d7a711c6ea79db7b434e4a9"
   },
   {
     "url": "categories/index.html",
-    "revision": "7cc5cb10a48e3b94b85d070977e0b5c4"
+    "revision": "c646c15a8580f4268e320d6a26ef04b7"
   },
   {
     "url": "categories/选项目/index.html",
-    "revision": "96ec60ffe1acda9fe072f27f02929668"
+    "revision": "016d74b8cce7935b3c2979da7f5d0be8"
   },
   {
     "url": "categories/选项目1/index.html",
-    "revision": "f06b26d06a5db2fbc18475cc6b48e023"
+    "revision": "5c27beef06ef3c429aff49153c0db54d"
   },
   {
     "url": "guide/10min分享-帝国理工学院（IC）的8个CS硕士项目到底选哪个呢？.html",
-    "revision": "2a0a9355b3a8549e5ee5687bfaf38339"
+    "revision": "93d8b529717badd1d72e3b8c3e5de064"
+  },
+  {
+    "url": "guide/10min分享-港中文MiM项目和港科大MGO项目大揭秘（含招生内幕分享）.html",
+    "revision": "1a1dfef88764bb2a1fb10a123e9c1738"
   },
   {
     "url": "guide/10min分享-跨专业申请英国心理学硕士可以吗.html",
-    "revision": "1a0340ace137e7c1c703deb32605a2d8"
+    "revision": "dcb28f84d4add88e42f8c21691760c21"
   },
   {
     "url": "guide/10min分享-香港博士申请奖学金.html",
-    "revision": "e23dcb82827ef119ed0a60565de869a9"
+    "revision": "4fd6c816fe3d962272d991b3d47be933"
   },
   {
     "url": "guide/index.html",
-    "revision": "a97d66ca7363b882c9110769c19d71e7"
+    "revision": "0c6f79c12803e210a691460a4ace9e78"
   },
   {
     "url": "img/HKScholarship.png",
@@ -167,19 +175,19 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "12c0254efc95ef2d4fd438211d402016"
+    "revision": "71249c58ada7154c5fed8518cb0547c9"
   },
   {
     "url": "tag/10min分享/index.html",
-    "revision": "e3e9360cb952204f82b514ddac61f5bf"
+    "revision": "06e2bc8edbe6fa1f2cb154a1d247aaf1"
   },
   {
     "url": "tag/index.html",
-    "revision": "8ce5b9a816738653fe547ced3d7c99bb"
+    "revision": "7cdd5841299a8a2e85d700553edb1b4e"
   },
   {
     "url": "timeline/index.html",
-    "revision": "1f6c75132d8b86174233f5e00091c409"
+    "revision": "98d4047b7769e49de8c82747afd413fb"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
