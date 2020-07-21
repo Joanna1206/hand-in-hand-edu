@@ -12,8 +12,14 @@ tags:
 *最近我了解到很多学生表示想了解哪些英国的心理学项目是接受非心理学本科的学生申请的。看到同学们对出国留学保有着激情、热情以及好奇心，勤奋的小编便立马加班加点去为跨专业申请英国心理学硕士的你们带来以下信息，希望能为大家的留学申请保驾护航。*
 
 以下小编针对经典院校进行详细分析（如果还想了解其他项目信息，请留言给小编哦）
-![跨专业申请英国心理学硕士可以吗](./../.vuepress/public/img/PsychologyProgramsUK.jpg)
 
+|  2020 TIMES英国综合大学排名   | 2021 QS世界大学排名  |  2020年TIMES英国大学专业排名-心理学（Psychology）  |   院校  |  项目  |
+|  ----  | ----  | ----  | ----  | ----  |
+| 3  | 96 |  3  |  University of St Andrews  |  MSc Psychology Conversion  |
+| 9  | 10 |  6  |  University College London  |  MSc Psychological Sciences  |
+| 15  | 58 |  11  |  University of Bristol  |  MSc Experimental Psychology (Conversion)  |
+| 16  | 77 |  16  |  University of Glasgow  |  MSc Psychological Science (conversion)  |
+| 18  | 27 |  30  |  University of Manchester  |  MSc Business Psychology  | 
 ## University of St Andrews
 *	开设在School of Psychology and Neuroscience
 *   项目时长：1年
