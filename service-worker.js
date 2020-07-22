@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "b3639ee34827bcc76446258e1daff1e3"
+    "revision": "d46c44e77d6d74df7abf6c93fe5c297d"
   },
   {
     "url": "assets/css/0.styles.9e20c02a.css",
@@ -46,20 +46,20 @@ self.__precacheManifest = [
     "revision": "29fdeb1dce465998b83fd4b40e83672a"
   },
   {
-    "url": "assets/js/10.2b95a719.js",
-    "revision": "a0e9d68381074b16568adad982017a2c"
+    "url": "assets/js/10.cfbd983e.js",
+    "revision": "21ece58b11001ca96d9c499aea7f40c2"
   },
   {
-    "url": "assets/js/11.741d797a.js",
-    "revision": "c841ef46b1545458c0d20303bcd726a3"
+    "url": "assets/js/11.55fe8ca0.js",
+    "revision": "0e2a0bfaa2ad6ff7601de74d935ed0e9"
   },
   {
     "url": "assets/js/12.7c276707.js",
     "revision": "b143793652ed232cc8f571ca340ba224"
   },
   {
-    "url": "assets/js/13.f61588c1.js",
-    "revision": "8421a75b0ae7b9de6e8cafa4501312d6"
+    "url": "assets/js/13.edad25a4.js",
+    "revision": "e7822df8b69cd80359ed83d87e1491df"
   },
   {
     "url": "assets/js/14.dfdd7d03.js",
@@ -74,20 +74,24 @@ self.__precacheManifest = [
     "revision": "a0c91e664b1aa222aad78ae96e95b568"
   },
   {
-    "url": "assets/js/17.fd94df11.js",
-    "revision": "11557b644fa777de105fee53e68da52c"
+    "url": "assets/js/17.0c6b167f.js",
+    "revision": "b3a69b26ce0c4c5fdda306a3983fff79"
   },
   {
-    "url": "assets/js/18.9bb9b97a.js",
-    "revision": "6377a80f6a87cbed1536d58737e2f1a2"
+    "url": "assets/js/18.e1a71a80.js",
+    "revision": "15b59e2532aa7f9214bb0c0cf150e7db"
   },
   {
-    "url": "assets/js/19.7077d390.js",
-    "revision": "681a0bcd3f04c484e053d139bf9406d7"
+    "url": "assets/js/19.eba7ea6a.js",
+    "revision": "b43c6f59315fc36a94ab2a1c70363ec2"
   },
   {
-    "url": "assets/js/20.c0775527.js",
-    "revision": "32e568b13bc64cf47259b40ff5adf663"
+    "url": "assets/js/20.b620fc6c.js",
+    "revision": "9cba7bf9c3beeabd5de392945d7410bc"
+  },
+  {
+    "url": "assets/js/21.78399e86.js",
+    "revision": "e3936fbc88cf9a5a449c65673bf58661"
   },
   {
     "url": "assets/js/3.a86fd37b.js",
@@ -118,44 +122,48 @@ self.__precacheManifest = [
     "revision": "ac5b703c4ab00b07ea1b9a9a5677a76e"
   },
   {
-    "url": "assets/js/app.e2adccb2.js",
-    "revision": "ac464012520892c39b8e183c828126fb"
+    "url": "assets/js/app.de9e2d0c.js",
+    "revision": "94696762370bb295406cc6533da46f78"
   },
   {
     "url": "categories/aaa/index.html",
-    "revision": "4eb0974aa6344950ac71176a156a7072"
+    "revision": "319d62c8d5b802886c1173688a00cc36"
   },
   {
     "url": "categories/index.html",
-    "revision": "bc57c876cb55c8571443e7e63c2793fd"
+    "revision": "65a2e3a26dd83f3d03481fa36924c0b5"
   },
   {
     "url": "categories/选项目/index.html",
-    "revision": "8ee7899e33986dfffbd3cad7ebac2d8e"
+    "revision": "acde0eb93163ddf6476cbbc9034ed752"
   },
   {
     "url": "categories/选项目1/index.html",
-    "revision": "d11d1d47dcc463bdab6e4b3c8de441d3"
+    "revision": "e17030c7540d258b66743fd9825975a3"
   },
   {
     "url": "guide/10min分享-帝国理工学院（IC）的8个CS硕士项目到底选哪个呢？.html",
-    "revision": "5d57d25a4a20d7314726cc69128a43ca"
+    "revision": "ca150494349b1d92efd426d7b34527b4"
   },
   {
     "url": "guide/10min分享-港中文MiM项目和港科大MGO项目大揭秘（含招生内幕分享）.html",
-    "revision": "1fbdf04c1102e6992d8e652cfa92c354"
+    "revision": "add9ccf2c5f06ff5f1d4daa35c9978d8"
   },
   {
     "url": "guide/10min分享-跨专业申请英国心理学硕士可以吗.html",
-    "revision": "babb777179f4e4f0a283813ef9e658dc"
+    "revision": "732b4ef2a04f2089a5a182f35b018dcc"
+  },
+  {
+    "url": "guide/10min分享-这些美国名校MIS项目大揭秘.html",
+    "revision": "1b9a358f70a40c5e40f081cced5ec166"
   },
   {
     "url": "guide/10min分享-香港博士申请奖学金.html",
-    "revision": "143a6ac11de98a641f3fd26cc2560ca3"
+    "revision": "297f87894632419d50d341f81cd6c8b9"
   },
   {
     "url": "guide/index.html",
-    "revision": "e4c16ebb35f6841afba6c86588f63455"
+    "revision": "f9baa961285070a6daa8dd0337ea7381"
   },
   {
     "url": "img/HKScholarship.png",
@@ -167,19 +175,19 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "8a97989ecd559f58a2af0599aa432a61"
+    "revision": "7b187788ffb8865d289783eb0e099269"
   },
   {
     "url": "tag/10min分享/index.html",
-    "revision": "968099bb7a8ad19315c38b1d5147dccd"
+    "revision": "862228c4302f62184a150a7ca0db074a"
   },
   {
     "url": "tag/index.html",
-    "revision": "59995503fc00ced769b0756afdfcc243"
+    "revision": "36688999d6e6db99b4b89c42b753f3be"
   },
   {
     "url": "timeline/index.html",
-    "revision": "4b301e8f009088d7b71d2c54e5d730f8"
+    "revision": "201394ee5c9b0eda0f72053af03e62bc"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
