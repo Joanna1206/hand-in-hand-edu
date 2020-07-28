@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "9fc07af160539014375f3d330b998d10"
+    "revision": "4cc9c5bb0dc6807dfe37ed2f696591f0"
   },
   {
     "url": "assets/css/0.styles.9e20c02a.css",
@@ -46,8 +46,8 @@ self.__precacheManifest = [
     "revision": "29fdeb1dce465998b83fd4b40e83672a"
   },
   {
-    "url": "assets/js/10.9293b1df.js",
-    "revision": "a9e01236322a5d2613e7412d962df753"
+    "url": "assets/js/10.0ce67b55.js",
+    "revision": "e3122f60740b5b311f559fc9b88a559d"
   },
   {
     "url": "assets/js/11.78d105bd.js",
@@ -58,8 +58,8 @@ self.__precacheManifest = [
     "revision": "b143793652ed232cc8f571ca340ba224"
   },
   {
-    "url": "assets/js/13.b92341cb.js",
-    "revision": "3630741706a9b179f52f71db3eb114b8"
+    "url": "assets/js/13.55a74b75.js",
+    "revision": "ff5aa2509549ece4db68fc8ed6cad56b"
   },
   {
     "url": "assets/js/14.dfdd7d03.js",
@@ -78,8 +78,8 @@ self.__precacheManifest = [
     "revision": "11557b644fa777de105fee53e68da52c"
   },
   {
-    "url": "assets/js/18.25922530.js",
-    "revision": "7870afffde7098be2ba6132205fe6630"
+    "url": "assets/js/18.72a34c9c.js",
+    "revision": "5be7172cbf623e808f2c43b9a0bcb477"
   },
   {
     "url": "assets/js/19.f1e783cc.js",
@@ -90,16 +90,20 @@ self.__precacheManifest = [
     "revision": "ac44411ade207249db1a4a65d912cd15"
   },
   {
-    "url": "assets/js/21.84ee3690.js",
-    "revision": "2086a2c2ccf702399da53afe99059633"
+    "url": "assets/js/21.c0a06421.js",
+    "revision": "4e9b47ca33fdae83908c7df3460cecd3"
   },
   {
     "url": "assets/js/22.145b6a95.js",
     "revision": "645cfdf135e475cd76eb04b05d3e72d5"
   },
   {
-    "url": "assets/js/23.606dd6f0.js",
-    "revision": "1cc2ba7aa51cbe68fae412a4f36369de"
+    "url": "assets/js/23.d6b67a50.js",
+    "revision": "6c909d82d243658782cbf722525ec6ab"
+  },
+  {
+    "url": "assets/js/24.9b05bc12.js",
+    "revision": "8beb4049fe74916f47e395d4b1fe0b7c"
   },
   {
     "url": "assets/js/3.a86fd37b.js",
@@ -130,56 +134,60 @@ self.__precacheManifest = [
     "revision": "ac5b703c4ab00b07ea1b9a9a5677a76e"
   },
   {
-    "url": "assets/js/app.4f46e2f5.js",
-    "revision": "250f5d3d52bab3270f4b5c5e06593a9f"
+    "url": "assets/js/app.04709cc2.js",
+    "revision": "96ccc23f7bd08917569a7f43332a31e5"
   },
   {
     "url": "categories/aaa/index.html",
-    "revision": "daca4b3be9e0f6297e92e0fc5ab0ac71"
+    "revision": "794b586304074c828e71f62356a8933a"
   },
   {
     "url": "categories/index.html",
-    "revision": "d349d1a0c1c78f7c251d27f41ee99363"
+    "revision": "c332bdeaf9db7c8e8437debea4e7596f"
   },
   {
     "url": "categories/选项目/index.html",
-    "revision": "67cdcfc8185f36b5238bd494e474d716"
+    "revision": "2b5d1ae9c5e8c7695ebde03c356a0b1f"
   },
   {
     "url": "categories/选项目1/index.html",
-    "revision": "65b7e0b1359d064c555da57a7c4af796"
+    "revision": "18d939f2287f5578fd432a83abf9e034"
   },
   {
     "url": "guide/10min分享-帝国理工学院（IC）的8个CS硕士项目到底选哪个呢？.html",
-    "revision": "22c25fbd399a2fecac38e657ab79f487"
+    "revision": "3dbeaaed947a81cec4dff32ed8dd3f0e"
   },
   {
     "url": "guide/10min分享-港中文MiM项目和港科大MGO项目大揭秘（含招生内幕分享）.html",
-    "revision": "40d37492b2b4a6b21b2ed880d5d56b82"
+    "revision": "4af3b468fceba158deee48521ccab36e"
   },
   {
     "url": "guide/10min分享-英国心理学硕士项目(点开了解一下呗).html",
-    "revision": "0c5ceff85ab189388d51b578d76e6cbc"
+    "revision": "92a0c9a20beb5767c41f118b40936d93"
   },
   {
     "url": "guide/10min分享-跨专业申请QS TOP100英国金融项目到底有什么选择.html",
-    "revision": "33a529baf76ca172c119af36819deb69"
+    "revision": "127f7fde11a31ee817f7d2facdb4eb10"
   },
   {
     "url": "guide/10min分享-跨专业申请英国心理学硕士可以吗.html",
-    "revision": "53e5599f6d966a1ea6321604e071fa10"
+    "revision": "d909130595bb8cd919a8583c25f75f42"
   },
   {
     "url": "guide/10min分享-这些美国名校MIS项目大揭秘.html",
-    "revision": "5c1c18fd00e669edd5d9c68d0fc63bf6"
+    "revision": "cb67b583208a9ec8b76144215900f601"
   },
   {
     "url": "guide/10min分享-香港博士申请奖学金.html",
-    "revision": "64b80aa031294246117919373ab5796e"
+    "revision": "34611e8ac9633e16d81ec82b39dcdfe6"
   },
   {
     "url": "guide/index.html",
-    "revision": "9e46617c102f5351beffaba6df988393"
+    "revision": "d99bcb38ab178dff2b82786f3c74417f"
+  },
+  {
+    "url": "guide/一起来看英国这几个顶尖院校的EE硕士项目吧.html",
+    "revision": "a456fb2a8a7055a031e59eb3255c9232"
   },
   {
     "url": "img/HKScholarship.png",
@@ -191,19 +199,19 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "73c35af88c363d6367ba58c51a9b0351"
+    "revision": "55bbbb42067d89e37682a50d73d68691"
   },
   {
     "url": "tag/10min分享/index.html",
-    "revision": "36c4d8290f73836134ff07bda05d91fa"
+    "revision": "4b6c8a365dceb24c764ada1ed987c543"
   },
   {
     "url": "tag/index.html",
-    "revision": "c003bc1e82268fafff3c3fa8ceafafb0"
+    "revision": "2074a1e62879d44fe5065774d1e64568"
   },
   {
     "url": "timeline/index.html",
-    "revision": "39609df9ba091ceeb206e91c977e8990"
+    "revision": "a0d16fa7c66c1747a1e69e1dcd8adf6d"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
