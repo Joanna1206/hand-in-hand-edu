@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "4cc9c5bb0dc6807dfe37ed2f696591f0"
+    "revision": "e1eb2774005f41e4ba2bbfef93e99192"
   },
   {
     "url": "assets/css/0.styles.9e20c02a.css",
@@ -46,20 +46,20 @@ self.__precacheManifest = [
     "revision": "29fdeb1dce465998b83fd4b40e83672a"
   },
   {
-    "url": "assets/js/10.0ce67b55.js",
-    "revision": "e3122f60740b5b311f559fc9b88a559d"
+    "url": "assets/js/10.3cede27a.js",
+    "revision": "5a1f700386537eb5e94a8fa3453232ee"
   },
   {
-    "url": "assets/js/11.78d105bd.js",
-    "revision": "c61ab0202ac0dedb2627da6ae4833801"
+    "url": "assets/js/11.49e2bdf3.js",
+    "revision": "9d57abdd47c370cee06a1b40dded21bc"
   },
   {
     "url": "assets/js/12.7c276707.js",
     "revision": "b143793652ed232cc8f571ca340ba224"
   },
   {
-    "url": "assets/js/13.55a74b75.js",
-    "revision": "ff5aa2509549ece4db68fc8ed6cad56b"
+    "url": "assets/js/13.42fbe422.js",
+    "revision": "d0d199b981e8d1ebac68bac040cdcc6d"
   },
   {
     "url": "assets/js/14.dfdd7d03.js",
@@ -78,32 +78,36 @@ self.__precacheManifest = [
     "revision": "11557b644fa777de105fee53e68da52c"
   },
   {
-    "url": "assets/js/18.72a34c9c.js",
-    "revision": "5be7172cbf623e808f2c43b9a0bcb477"
+    "url": "assets/js/18.ac925723.js",
+    "revision": "b6acc188f8c997ace6487408a93b15e5"
   },
   {
-    "url": "assets/js/19.f1e783cc.js",
-    "revision": "48da590b7283180eceb702c4e9c9add4"
+    "url": "assets/js/19.e906324a.js",
+    "revision": "bea127993443a23f12ac45af412d3b8b"
   },
   {
-    "url": "assets/js/20.99738ce2.js",
-    "revision": "ac44411ade207249db1a4a65d912cd15"
+    "url": "assets/js/20.89f824f0.js",
+    "revision": "7ff4a977143fbc9788821505a76fc2dc"
   },
   {
-    "url": "assets/js/21.c0a06421.js",
-    "revision": "4e9b47ca33fdae83908c7df3460cecd3"
+    "url": "assets/js/21.2fba2773.js",
+    "revision": "aff4ca758a182b89101c5fed2a77559d"
   },
   {
-    "url": "assets/js/22.145b6a95.js",
-    "revision": "645cfdf135e475cd76eb04b05d3e72d5"
+    "url": "assets/js/22.7cdcb903.js",
+    "revision": "a9b5da1e41d86a5d6c35900259e1872e"
   },
   {
-    "url": "assets/js/23.d6b67a50.js",
-    "revision": "6c909d82d243658782cbf722525ec6ab"
+    "url": "assets/js/23.c809ad8c.js",
+    "revision": "c2f8a87456307a575f61bfe9500b894e"
   },
   {
-    "url": "assets/js/24.9b05bc12.js",
-    "revision": "8beb4049fe74916f47e395d4b1fe0b7c"
+    "url": "assets/js/24.6218bc4d.js",
+    "revision": "ba6643cc343b554f0ceb961365cf70e6"
+  },
+  {
+    "url": "assets/js/25.3087a151.js",
+    "revision": "91a0de4d1a557789c10cd1e044292e08"
   },
   {
     "url": "assets/js/3.a86fd37b.js",
@@ -134,60 +138,64 @@ self.__precacheManifest = [
     "revision": "ac5b703c4ab00b07ea1b9a9a5677a76e"
   },
   {
-    "url": "assets/js/app.04709cc2.js",
-    "revision": "96ccc23f7bd08917569a7f43332a31e5"
+    "url": "assets/js/app.548c7983.js",
+    "revision": "1fc3eed73a257ffa93e0dcf0f5a467f4"
   },
   {
     "url": "categories/aaa/index.html",
-    "revision": "794b586304074c828e71f62356a8933a"
+    "revision": "8f47b83f855a83cacdcd5274e7effe74"
   },
   {
     "url": "categories/index.html",
-    "revision": "c332bdeaf9db7c8e8437debea4e7596f"
+    "revision": "aabba530f391a5c4abef64f8b228c108"
   },
   {
     "url": "categories/选项目/index.html",
-    "revision": "2b5d1ae9c5e8c7695ebde03c356a0b1f"
+    "revision": "40bf190a6a6a57f97973311800725c98"
   },
   {
     "url": "categories/选项目1/index.html",
-    "revision": "18d939f2287f5578fd432a83abf9e034"
+    "revision": "d74bb596dfefafbf501e841b673a1c77"
   },
   {
     "url": "guide/10min分享-帝国理工学院（IC）的8个CS硕士项目到底选哪个呢？.html",
-    "revision": "3dbeaaed947a81cec4dff32ed8dd3f0e"
+    "revision": "6ec003c0f69fac24c00bfc4babd83e68"
   },
   {
     "url": "guide/10min分享-港中文MiM项目和港科大MGO项目大揭秘（含招生内幕分享）.html",
-    "revision": "4af3b468fceba158deee48521ccab36e"
+    "revision": "f0f137f45db201694eaad0ff65058abb"
+  },
+  {
+    "url": "guide/10min分享-美国金融工程硕士-哥伦比亚大学 PK 加州大学伯克利分校 PK 纽约大学.html",
+    "revision": "7c32cb695602e2eb753e6c0ac6440f66"
   },
   {
     "url": "guide/10min分享-英国心理学硕士项目(点开了解一下呗).html",
-    "revision": "92a0c9a20beb5767c41f118b40936d93"
+    "revision": "5ff5354000f90238c303ba0108a2715d"
   },
   {
     "url": "guide/10min分享-跨专业申请QS TOP100英国金融项目到底有什么选择.html",
-    "revision": "127f7fde11a31ee817f7d2facdb4eb10"
+    "revision": "c6d2ae5e15a9546eb81a17796c9756ce"
   },
   {
     "url": "guide/10min分享-跨专业申请英国心理学硕士可以吗.html",
-    "revision": "d909130595bb8cd919a8583c25f75f42"
+    "revision": "923103de36d3252407ae39e9f2680aa8"
   },
   {
     "url": "guide/10min分享-这些美国名校MIS项目大揭秘.html",
-    "revision": "cb67b583208a9ec8b76144215900f601"
+    "revision": "d91c9108c30381f52fcb6e9a30bc8dcd"
   },
   {
     "url": "guide/10min分享-香港博士申请奖学金.html",
-    "revision": "34611e8ac9633e16d81ec82b39dcdfe6"
+    "revision": "283e84a9dd7117f2c8a24427adf5a8e4"
   },
   {
     "url": "guide/index.html",
-    "revision": "d99bcb38ab178dff2b82786f3c74417f"
+    "revision": "926d8e2c098faf8a837503b78df145b6"
   },
   {
     "url": "guide/一起来看英国这几个顶尖院校的EE硕士项目吧.html",
-    "revision": "a456fb2a8a7055a031e59eb3255c9232"
+    "revision": "d5def6ca532ba87603a7128db76a0e5e"
   },
   {
     "url": "img/HKScholarship.png",
@@ -199,19 +207,19 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "55bbbb42067d89e37682a50d73d68691"
+    "revision": "68ed334060a5251585f51b7c81755bf3"
   },
   {
     "url": "tag/10min分享/index.html",
-    "revision": "4b6c8a365dceb24c764ada1ed987c543"
+    "revision": "200f98fe8cca6cfd22080df15e4a4601"
   },
   {
     "url": "tag/index.html",
-    "revision": "2074a1e62879d44fe5065774d1e64568"
+    "revision": "fcf52486b7e36692cf09d70b038f8f98"
   },
   {
     "url": "timeline/index.html",
-    "revision": "a0d16fa7c66c1747a1e69e1dcd8adf6d"
+    "revision": "bd60714f7f53b073fb00dd3e7750f9df"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
