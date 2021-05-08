@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "ed263332bb337aa69f9b38d7d7d82d54"
+    "revision": "234f72cadef08e42ad427391dfb6a1fb"
   },
   {
     "url": "assets/css/0.styles.9e20c02a.css",
@@ -142,68 +142,68 @@ self.__precacheManifest = [
     "revision": "ac5b703c4ab00b07ea1b9a9a5677a76e"
   },
   {
-    "url": "assets/js/app.c62fb83e.js",
-    "revision": "28d4e1ea1dfc1988fa913adc6099426b"
+    "url": "assets/js/app.1d3b6e18.js",
+    "revision": "0a8e5472e2ae7f1e50d842887968facc"
   },
   {
     "url": "categories/aaa/index.html",
-    "revision": "ea394f1718d5b64e13521051ad3caddc"
+    "revision": "221ea54bba96a801b78efc78a68228d3"
   },
   {
     "url": "categories/index.html",
-    "revision": "227d649389a31cfd58d55187faa1e0e6"
+    "revision": "56642cbb548ac7bff80423b13d68ffbd"
   },
   {
     "url": "categories/选项目/index.html",
-    "revision": "3405ecd2356086ff6f57b0d2a3070521"
+    "revision": "d78fc9be5960a83722de082afdd402cb"
   },
   {
     "url": "categories/选项目1/index.html",
-    "revision": "64313921b3a2d25e8620325aeff87d57"
+    "revision": "a67c89635b91431a55e41e0fca17a26f"
   },
   {
     "url": "guide/10min分享-一起来看英国这几个顶尖院校的EE硕士项目吧.html",
-    "revision": "aa77a580f3a252a99031c362e491db6c"
+    "revision": "61023ba0aa998007cf1cafb48084145e"
   },
   {
     "url": "guide/10min分享-帝国理工学院（IC）的8个CS硕士项目到底选哪个呢？.html",
-    "revision": "2612d8e69c1d8829fefa14f8224a4367"
+    "revision": "73aab8f8ca482e35089e95438abfeca8"
   },
   {
     "url": "guide/10min分享-港中文MiM项目和港科大MGO项目大揭秘（含招生内幕分享）.html",
-    "revision": "c67b6d34f8703cc05dee23058c43031b"
+    "revision": "5d2d3356f645a235269198096ad0009c"
   },
   {
     "url": "guide/10min分享-美国统计学硕士-斯坦福大学 PK 耶鲁大学 PK 杜克大学.html",
-    "revision": "5c9c29b917867562bd3604fca0530550"
+    "revision": "e701ad409018ca443b98d42764a20c6b"
   },
   {
     "url": "guide/10min分享-美国金融工程硕士-哥伦比亚大学 PK 加州大学伯克利分校 PK 纽约大学.html",
-    "revision": "062f68c3ab23622be07fda0aa726d095"
+    "revision": "c606552c533182aa8318796fbbe5ac80"
   },
   {
     "url": "guide/10min分享-英国心理学硕士项目(点开了解一下呗).html",
-    "revision": "1476bbbe933d5814e62781bf5e097793"
+    "revision": "33c185e3c2b556d9560dc3424c868206"
   },
   {
     "url": "guide/10min分享-跨专业申请QS TOP100英国金融项目到底有什么选择.html",
-    "revision": "25e01c907b3ae38009fbd0b2ca727516"
+    "revision": "7507e42ffb36879423576d0cb8ef2e94"
   },
   {
     "url": "guide/10min分享-跨专业申请英国心理学硕士可以吗.html",
-    "revision": "ce6b22c4ccede751ce283f9d3a8c5302"
+    "revision": "2205ce7771019e7a6e8ca74cb14d8d1b"
   },
   {
     "url": "guide/10min分享-这些美国名校MIS项目大揭秘.html",
-    "revision": "6ce5cd0a6b4f4a8364ecbd0fc915c617"
+    "revision": "aa352b10a387aec2db6480cffe73e771"
   },
   {
     "url": "guide/10min分享-香港博士申请奖学金.html",
-    "revision": "79aabdaccc666b676675567a3d64ebea"
+    "revision": "d27b2923defe0baed1366e1b21963b2d"
   },
   {
     "url": "guide/index.html",
-    "revision": "6b20e4ae44202e4555e8dc3647dd3356"
+    "revision": "a68ea2598484d49efed3dacafbfb2826"
   },
   {
     "url": "img/HKScholarship.png",
@@ -215,19 +215,19 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "12d32d7fe2d6f4535c369bb5830be5f6"
+    "revision": "a95e1494b8bc98c79d98ebd3d58883b4"
   },
   {
     "url": "tag/10min分享/index.html",
-    "revision": "f2d1f4bb81c033eefd1bcff0b6b46777"
+    "revision": "96906db3ba117bd4f39ba15c1ec060ef"
   },
   {
     "url": "tag/index.html",
-    "revision": "af3038ad5c869bc48fe59cd3c6a5dd84"
+    "revision": "2ce027f55aefebe5f95c52717b824f68"
   },
   {
     "url": "timeline/index.html",
-    "revision": "1d7b8f860b4c3caf60e6b579a82a726d"
+    "revision": "b97dcb259fca666965b6b6ab0d8aa38e"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
